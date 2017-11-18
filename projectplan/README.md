@@ -1,3 +1,1 @@
-# Projectplan
-
-Hier vind je de werkdocumenten m.b.t. het projectplan. Mocht je zaken willen toevoegen of heb je suggesties, gebruik dan de Issues-functie.
+This is a minimal example of a book based on R Markdown and **bookdown** (https://github.com/rstudio/bookdown). Please see the page "Get Started" at https://bookdown.org/ for how to compile this example.

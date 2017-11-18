@@ -1,0 +1,190 @@
+\documentclass[]{book}
+\usepackage{lmodern}
+\usepackage{amssymb,amsmath}
+\usepackage{ifxetex,ifluatex}
+\usepackage{fixltx2e} % provides \textsubscript
+\ifnum 0\ifxetex 1\fi\ifluatex 1\fi=0 % if pdftex
+  \usepackage[T1]{fontenc}
+  \usepackage[utf8]{inputenc}
+\else % if luatex or xelatex
+  \ifxetex
+    \usepackage{mathspec}
+  \else
+    \usepackage{fontspec}
+  \fi
+  \defaultfontfeatures{Ligatures=TeX,Scale=MatchLowercase}
+\fi
+% use upquote if available, for straight quotes in verbatim environments
+\IfFileExists{upquote.sty}{\usepackage{upquote}}{}
+% use microtype if available
+\IfFileExists{microtype.sty}{%
+\usepackage{microtype}
+\UseMicrotypeSet[protrusion]{basicmath} % disable protrusion for tt fonts
+}{}
+\usepackage[margin=1in]{geometry}
+\usepackage{hyperref}
+\hypersetup{unicode=true,
+            pdftitle={HAN Smart Business \& Technology Center},
+            pdfauthor={Herold Cremer, Witek ten Hove, Deny Smeets, Peter Verschut},
+            pdfborder={0 0 0},
+            breaklinks=true}
+\urlstyle{same}  % don't use monospace font for urls
+\usepackage{natbib}
+\bibliographystyle{apalike}
+\usepackage{longtable,booktabs}
+\usepackage{graphicx,grffile}
+\makeatletter
+\def\maxwidth{\ifdim\Gin@nat@width>\linewidth\linewidth\else\Gin@nat@width\fi}
+\def\maxheight{\ifdim\Gin@nat@height>\textheight\textheight\else\Gin@nat@height\fi}
+\makeatother
+% Scale images if necessary, so that they will not overflow the page
+% margins by default, and it is still possible to overwrite the defaults
+% using explicit options in \includegraphics[width, height, ...]{}
+\setkeys{Gin}{width=\maxwidth,height=\maxheight,keepaspectratio}
+\IfFileExists{parskip.sty}{%
+\usepackage{parskip}
+}{% else
+\setlength{\parindent}{0pt}
+\setlength{\parskip}{6pt plus 2pt minus 1pt}
+}
+\setlength{\emergencystretch}{3em}  % prevent overfull lines
+\providecommand{\tightlist}{%
+  \setlength{\itemsep}{0pt}\setlength{\parskip}{0pt}}
+\setcounter{secnumdepth}{5}
+% Redefines (sub)paragraphs to behave more like sections
+\ifx\paragraph\undefined\else
+\let\oldparagraph\paragraph
+\renewcommand{\paragraph}[1]{\oldparagraph{#1}\mbox{}}
+\fi
+\ifx\subparagraph\undefined\else
+\let\oldsubparagraph\subparagraph
+\renewcommand{\subparagraph}[1]{\oldsubparagraph{#1}\mbox{}}
+\fi
+
+%%% Use protect on footnotes to avoid problems with footnotes in titles
+\let\rmarkdownfootnote\footnote%
+\def\footnote{\protect\rmarkdownfootnote}
+
+%%% Change title format to be more compact
+\usepackage{titling}
+
+% Create subtitle command for use in maketitle
+\newcommand{\subtitle}[1]{
+  \posttitle{
+    \begin{center}\large#1\end{center}
+    }
+}
+
+\setlength{\droptitle}{-2em}
+  \title{HAN Smart Business \& Technology Center}
+  \pretitle{\vspace{\droptitle}\centering\huge}
+  \posttitle{\par}
+  \author{Herold Cremer, Witek ten Hove, Deny Smeets, Peter Verschut}
+  \preauthor{\centering\large\emph}
+  \postauthor{\par}
+  \predate{\centering\large\emph}
+  \postdate{\par}
+  \date{2017-11-18}
+
+\usepackage{booktabs}
+
+\begin{document}
+\maketitle
+
+{
+\setcounter{tocdepth}{1}
+\tableofcontents
+}
+\chapter{Inleiding}\label{inleiding}
+
+Trends en uitdagingen voor de Nederlandse economie.
+
+\chapter{Team}\label{team}
+
+Profielen leden projectgroep
+
+\chapter{Visie}\label{visie}
+
+Visie op Smart Business \& Technology en relatie met onderwijs en
+onderzoek.
+
+\chapter{Doelen}\label{doelen}
+
+Uitkomsten van het project. Waardepropositie
+
+\chapter{Partners}\label{partners}
+
+Partners en samenwerkingsverbanden
+
+\chapter{Ontwerp}\label{ontwerp}
+
+\section{Werkwijze}\label{werkwijze}
+
+\href{https://dschool.stanford.edu/}{Design Thinking}
+
+\section{Empathize}\label{empathize}
+
+\section{Define}\label{define}
+
+\section{Ideate}\label{ideate}
+
+\section{Prototype}\label{prototype}
+
+\section{Test}\label{test}
+
+\chapter{Roadmap}\label{roadmap}
+
+\section{Tijdspad}\label{tijdspad}
+
+Overzicht van projecten, acties, beslismomenten en mijlpalen
+
+\section{Project 1}\label{project-1}
+
+Smart Cell
+
+\section{Project 2}\label{project-2}
+
+\section{Project 3}\label{project-3}
+
+\chapter{Organisatie}\label{organisatie}
+
+\section{Visie op samenwerking}\label{visie-op-samenwerking}
+
+\section{Governance}\label{governance}
+
+\section{Rollen en teams}\label{rollen-en-teams}
+
+\href{https://techbeacon.com/teams-tribes-creating-one-team-culture-devops}{Tribes}
+\href{https://en.wikipedia.org/wiki/DevOps}{DevOps}
+
+\section{Human Capital}\label{human-capital}
+
+Diversiteit (kennis en vaardigheden, geslacht, achtergrond, etc.)
+Motivatie Professionele en persoonlijke ontwikkeling
+
+\section{Information Capital}\label{information-capital}
+
+Interne communicatie Kennismanagement Systemen
+
+\chapter{Externe communicatie}\label{externe-communicatie}
+
+\section{Online}\label{online}
+
+\section{Social Media}\label{social-media}
+
+\section{Training en voorlichting}\label{training-en-voorlichting}
+
+\chapter{Financieel Plan}\label{financieel-plan}
+
+\section{Begroting}\label{begroting}
+
+Investering en financiering
+
+Ontvangsten en uitgaven
+
+\section{Uitvoering}\label{uitvoering}
+
+\bibliography{packages.bib,book.bib}
+
+
+\end{document}
