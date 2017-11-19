@@ -7,12 +7,34 @@ documentclass: book
 bibliography: [book.bib, packages.bib]
 biblio-style: apalike
 link-citations: true
-description: "This is a minimal example of using the bookdown package to write a book. The output format for this example is bookdown::gitbook."
+description: "Dit het projectplan HAN Smart Business & Technology Center"
 ---
 
 # Inleiding
 
-Trends en uitdagingen voor de Nederlandse economie.
+<blockquote class="blockquote"><h4>Wat als machines en producten kunnen praten .....<h4></blockquote>
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/HPRURtORnis?rel=0" frameborder="0" allowfullscreen></iframe>
+<hr>
+
+<blockquote class="blockquote"><h4>Als een robot nog maar een paar euro kost .....<h4></blockquote>
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3TY_bdcZJcA?rel=0" frameborder="0" allowfullscreen></iframe>
+<hr>
+
+<blockquote class="blockquote"><h4>De toegang tot kennis gedemocratiseerd is .....<h4></blockquote>
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/q7qElhGv7uY?rel=0" frameborder="0" allowfullscreen></iframe>
+<hr>
+
+<blockquote class="blockquote"><h4>En alles wat je kunt bedenken ook gemaakt kan worden?<h4></blockquote>
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/pZNTzkAR1Ho?rel=0" frameborder="0" allowfullscreen></iframe>
+
+<hr>
+Dit zijn de ingredienten voor een revolutie binnen onze economische orde. Een nieuwe defintie van de vrije markt waarin zakelijk succes vooral afhangt van je talent en kennis en niet meer van de toegang tot de kapitaalmarkt.
+
+Trends, kansen en uitdagingen voor de Nederlandse economie.
 
 # Team
 
@@ -20,4 +42,4 @@ Profielen leden projectgroep
 
 # Visie
 
-Visie op Smart Business & Technology en relatie met onderwijs en onderzoek.
+Visie op Smart Business & Technology en relatie met onderwijs en onderzoek

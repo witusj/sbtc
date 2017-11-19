@@ -6,7 +6,6 @@
 
 ## Rollen en teams
 [Tribes](https://techbeacon.com/teams-tribes-creating-one-team-culture-devops)
-@campbell-pretty_teams_nodate
 [DevOps](https://en.wikipedia.org/wiki/DevOps)
 
 ## Human Capital
