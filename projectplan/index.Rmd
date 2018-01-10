@@ -19,7 +19,7 @@ description: "Dit het projectplan HAN Smart Business & Technology Center"
 
 <blockquote class="blockquote"><h4>Als een robot nog maar een paar euro kost .....</h4></blockquote>
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/3TY_bdcZJcA?rel=0" frameborder="0" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/89B-pY18O4U" frameborder="0" allowfullscreen></iframe>
 <hr>
 
 <blockquote class="blockquote"><h4>De toegang tot kennis gedemocratiseerd is .....</h4></blockquote>
